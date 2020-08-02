@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://ajai:ajai@cluster0.joxqi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+  "jwtSecret": "xpYZzcxm72QzBnn91aF2kJh5"
+}
